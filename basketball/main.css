@@ -1,0 +1,48 @@
+
+html {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+table {
+  align-self: center;
+  align-content: center;
+  align-items: center;
+
+}
+
+table,td {
+  border: 5px solid #92B0DA;
+  height: 100px;
+  font-size: 45px;
+  text-align: center;
+}
+
+
+.hit{
+  background-color: #D8798C;
+  color: white;
+}
+
+.miss{
+  background-color: black;
+  font-size: 40px;
+  color: white;
+}
+
+.t{
+  background-color: #FBE1E2;
+  font-size: 40px;
+  color: black;
+
+}
